@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.1.0",
+    "web3": "^1.8.1"
+  }
+}
